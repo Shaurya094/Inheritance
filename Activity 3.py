@@ -13,5 +13,5 @@ class son(dad):
         self.age = age
         super().__init__(eyes, aggro)
 
-obj = son("Penquin", 8 , "blue", True)
+obj = son("Penguin", 8 , "blue", True)
 obj.display()
